@@ -1,0 +1,8 @@
+.memory {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 800px;
+  margin: auto;
+  user-select: none;
+}
